@@ -1,0 +1,23 @@
+DIABETES RISK PREDICTION SYSTEM - CLINICAL INSIGHTS
+======================================================================
+
+Total Patients Analyzed: 1000
+Patients with Diabetes Risk: 650 (65.0%)
+Patients without Diabetes Risk: 350 (35.0%)
+
+
+Key Health Metrics:
+----------------------------------------------------------------------
+  Average Glucose Level: 122.93 mg/dL
+  Average BMI: 27.90 kg/m²
+  Average Age: 50.2 years
+  Average Systolic BP: 130.69 mmHg
+  Average Insulin Level: 81.31 mIU/L
+
+
+Risk Factors Analysis:
+----------------------------------------------------------------------
+  Patients with Family History: 80.2% have diabetes risk
+  Smokers: 75.3% have diabetes risk
+  High Glucose (>125 mg/dL): 76.8% have diabetes risk
+  Obese Patients (BMI>30): 85.3% have diabetes risk
